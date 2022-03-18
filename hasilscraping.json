@@ -1,0 +1,802 @@
+[
+      {
+            "No": "1",
+            "Title": "To Kill a Mockingbird",
+            "Author": "by Harper Lee",
+            "Rating": "4.27 avg rating \u2014 5,200,161 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657._SY75_.jpg"
+      },
+      {
+            "No": "2",
+            "Title": "1984",
+            "Author": "by George Orwell",
+            "Rating": "4.19 avg rating \u2014 3,752,938 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566i/5470._SY75_.jpg"
+      },
+      {
+            "No": "3",
+            "Title": "The Lord of the Rings",
+            "Author": "by J.R.R. Tolkien",
+            "Rating": "4.51 avg rating \u2014 612,883 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33._SX50_.jpg"
+      },
+      {
+            "No": "4",
+            "Title": "The Catcher in the Rye",
+            "Author": "by J.D. Salinger",
+            "Rating": "3.81 avg rating \u2014 3,075,558 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107._SY75_.jpg"
+      },
+      {
+            "No": "5",
+            "Title": "The Great Gatsby",
+            "Author": "by F. Scott Fitzgerald",
+            "Rating": "3.93 avg rating \u2014 4,380,088 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671._SY75_.jpg"
+      },
+      {
+            "No": "6",
+            "Title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+            "Author": "by C.S. Lewis",
+            "Rating": "4.23 avg rating \u2014 2,421,898 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077i/100915._SY75_.jpg"
+      },
+      {
+            "No": "7",
+            "Title": "Lord of the Flies",
+            "Author": "by William Golding",
+            "Rating": "3.69 avg rating \u2014 2,541,195 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409i/7624._SY75_.jpg"
+      },
+      {
+            "No": "8",
+            "Title": "Animal Farm",
+            "Author": "by George Orwell",
+            "Rating": "3.97 avg rating \u2014 3,216,454 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542i/7613._SY75_.jpg"
+      },
+      {
+            "No": "9",
+            "Title": "Catch-22",
+            "Author": "by Joseph Heller",
+            "Rating": "3.98 avg rating \u2014 773,679 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317i/168668._SY75_.jpg"
+      },
+      {
+            "No": "10",
+            "Title": "The Grapes of Wrath",
+            "Author": "by John Steinbeck",
+            "Rating": "3.99 avg rating \u2014 818,187 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302892i/4395._SY75_.jpg"
+      },
+      {
+            "No": "11",
+            "Title": "Gone with the Wind",
+            "Author": "by Margaret Mitchell",
+            "Rating": "4.30 avg rating \u2014 1,143,491 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405._SY75_.jpg"
+      },
+      {
+            "No": "12",
+            "Title": "Slaughterhouse-Five",
+            "Author": "by Kurt Vonnegut Jr.",
+            "Rating": "4.08 avg rating \u2014 1,230,832 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981._SY75_.jpg"
+      },
+      {
+            "No": "13",
+            "Title": "Lolita",
+            "Author": "by Vladimir Nabokov",
+            "Rating": "3.88 avg rating \u2014 735,289 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377i/7604._SY75_.jpg"
+      },
+      {
+            "No": "14",
+            "Title": "One Flew Over the Cuckoo's Nest",
+            "Author": "by Ken Kesey",
+            "Rating": "4.20 avg rating \u2014 675,627 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516211014i/332613._SX50_.jpg"
+      },
+      {
+            "No": "15",
+            "Title": "A Clockwork Orange",
+            "Author": "by Anthony Burgess",
+            "Rating": "really liked it",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348339306i/227463._SY75_.jpg"
+      },
+      {
+            "No": "16",
+            "Title": "Are You There God? It's Me, Margaret",
+            "Author": "by Judy Blume (Goodreads Author)",
+            "Rating": "3.91 avg rating \u2014 200,548 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388356524i/37732._SY75_.jpg"
+      },
+      {
+            "No": "17",
+            "Title": "Atonement",
+            "Author": "by Ian McEwan",
+            "Rating": "3.92 avg rating \u2014 475,733 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449708i/6867._SY75_.jpg"
+      },
+      {
+            "No": "18",
+            "Title": "Watchmen",
+            "Author": "by Alan Moore (Goodreads Author)",
+            "Rating": "4.37 avg rating \u2014 517,446 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442239711i/472331._SY75_.jpg"
+      },
+      {
+            "No": "19",
+            "Title": "Never Let Me Go",
+            "Author": "by Kazuo Ishiguro (Goodreads Author)",
+            "Rating": "3.84 avg rating \u2014 559,612 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334._SY75_.jpg"
+      },
+      {
+            "No": "20",
+            "Title": "Things Fall Apart (The African Trilogy, #1)",
+            "Author": "by Chinua Achebe",
+            "Rating": "3.71 avg rating \u2014 323,316 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352082529i/37781._SY75_.jpg"
+      },
+      {
+            "No": "21",
+            "Title": "Invisible Man",
+            "Author": "by Ralph Ellison",
+            "Rating": "3.90 avg rating \u2014 170,047 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805i/16981._SY75_.jpg"
+      },
+      {
+            "No": "22",
+            "Title": "Mrs. Dalloway",
+            "Author": "by Virginia Woolf",
+            "Rating": "3.79 avg rating \u2014 254,097 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646148221i/14942._SY75_.jpg"
+      },
+      {
+            "No": "23",
+            "Title": "Beloved",
+            "Author": "by Toni Morrison",
+            "Rating": "3.91 avg rating \u2014 370,488 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632283781i/6149._SY75_.jpg"
+      },
+      {
+            "No": "24",
+            "Title": "On the Road",
+            "Author": "by Jack Kerouac",
+            "Rating": "3.62 avg rating \u2014 375,001 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413588576i/70401._SX50_.jpg"
+      },
+      {
+            "No": "25",
+            "Title": "The Sun Also Rises",
+            "Author": "by Ernest Hemingway",
+            "Rating": "3.81 avg rating \u2014 393,650 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509802323i/3876._SY75_.jpg"
+      },
+      {
+            "No": "26",
+            "Title": "Possession",
+            "Author": "by A.S. Byatt",
+            "Rating": "3.88 avg rating \u2014 77,205 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391124124i/41219._SY75_.jpg"
+      },
+      {
+            "No": "27",
+            "Title": "The Big Sleep",
+            "Author": "by Raymond Chandler",
+            "Rating": "3.96 avg rating \u2014 141,379 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371584712i/2052._SY75_.jpg"
+      },
+      {
+            "No": "28",
+            "Title": "A Passage to India",
+            "Author": "by E.M. Forster",
+            "Rating": "3.68 avg rating \u2014 74,259 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421883612i/45195._SY75_.jpg"
+      },
+      {
+            "No": "29",
+            "Title": "I, Claudius (Claudius, #1)",
+            "Author": "by Robert Graves",
+            "Rating": "4.23 avg rating \u2014 61,491 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611780411i/18765._SY75_.jpg"
+      },
+      {
+            "No": "30",
+            "Title": "Their Eyes Were Watching God",
+            "Author": "by Zora Neale Hurston",
+            "Rating": "3.96 avg rating \u2014 298,337 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368072803i/37415._SY75_.jpg"
+      },
+      {
+            "No": "31",
+            "Title": "The Sound and the Fury",
+            "Author": "by William Faulkner",
+            "Rating": "3.86 avg rating \u2014 167,870 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995i/10975._SY75_.jpg"
+      },
+      {
+            "No": "32",
+            "Title": "All the King's Men",
+            "Author": "by Robert Penn Warren",
+            "Rating": "4.07 avg rating \u2014 60,613 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342193852i/5527._SY75_.jpg"
+      },
+      {
+            "No": "33",
+            "Title": "The Blind Assassin",
+            "Author": "by Margaret Atwood (Goodreads Author)",
+            "Rating": "3.96 avg rating \u2014 145,808 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445426i/78433._SY75_.jpg"
+      },
+      {
+            "No": "34",
+            "Title": "Native Son",
+            "Author": "by Richard Wright",
+            "Rating": "4.01 avg rating \u2014 93,485 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627788308i/15622._SX50_.jpg"
+      },
+      {
+            "No": "35",
+            "Title": "To the Lighthouse",
+            "Author": "by Virginia Woolf",
+            "Rating": "3.79 avg rating \u2014 152,215 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639106809i/59716._SY75_.jpg"
+      },
+      {
+            "No": "36",
+            "Title": "Ragtime",
+            "Author": "by E.L. Doctorow",
+            "Rating": "3.89 avg rating \u2014 40,576 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320531790i/175675._SY75_.jpg"
+      },
+      {
+            "No": "37",
+            "Title": "The French Lieutenant's Woman",
+            "Author": "by John Fowles",
+            "Rating": "3.88 avg rating \u2014 49,536 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466630905i/56034._SY75_.jpg"
+      },
+      {
+            "No": "38",
+            "Title": "Light in August",
+            "Author": "by William Faulkner",
+            "Rating": "3.93 avg rating \u2014 58,286 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355360091i/10979._SY75_.jpg"
+      },
+      {
+            "No": "39",
+            "Title": "The Spy Who Came In from the Cold (George Smiley #3)",
+            "Author": "by John le Carr\u00e9",
+            "Rating": "4.06 avg rating \u2014 94,582 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327719782i/19494._SY75_.jpg"
+      },
+      {
+            "No": "40",
+            "Title": "The Heart Is a Lonely Hunter",
+            "Author": "by Carson McCullers",
+            "Rating": "3.99 avg rating \u2014 99,764 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385265834i/37380._SY75_.jpg"
+      },
+      {
+            "No": "41",
+            "Title": "Blood Meridian, or the Evening Redness in the West",
+            "Author": "by Cormac McCarthy",
+            "Rating": "4.16 avg rating \u2014 123,144 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453995760i/394535._SY75_.jpg"
+      },
+      {
+            "No": "42",
+            "Title": "White Noise",
+            "Author": "by Don DeLillo",
+            "Rating": "3.87 avg rating \u2014 94,461 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521562981i/11762._SY75_.jpg"
+      },
+      {
+            "No": "43",
+            "Title": "Naked Lunch",
+            "Author": "by William S. Burroughs",
+            "Rating": "3.45 avg rating \u2014 85,348 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407330990i/7437._SY75_.jpg"
+      },
+      {
+            "No": "44",
+            "Title": "Infinite Jest",
+            "Author": "by David Foster Wallace",
+            "Rating": "4.26 avg rating \u2014 82,155 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446876799i/6759._SY75_.jpg"
+      },
+      {
+            "No": "45",
+            "Title": "Brideshead Revisited",
+            "Author": "by Evelyn Waugh",
+            "Rating": "really liked it",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438579340i/30933._SY75_.jpg"
+      },
+      {
+            "No": "46",
+            "Title": "Snow Crash",
+            "Author": "by Neal Stephenson (Goodreads Author)",
+            "Rating": "4.03 avg rating \u2014 253,855 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601222163i/830._SX50_.jpg"
+      },
+      {
+            "No": "47",
+            "Title": "Revolutionary Road",
+            "Author": "by Richard Yates",
+            "Rating": "3.91 avg rating \u2014 83,300 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353721885i/48328._SY75_.jpg"
+      },
+      {
+            "No": "48",
+            "Title": "Midnight's Children",
+            "Author": "by Salman Rushdie",
+            "Rating": "3.98 avg rating \u2014 111,892 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371063511i/14836._SY75_.jpg"
+      },
+      {
+            "No": "49",
+            "Title": "The Prime of Miss Jean Brodie",
+            "Author": "by Muriel Spark",
+            "Rating": "3.73 avg rating \u2014 47,128 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379598918i/517188._SY75_.jpg"
+      },
+      {
+            "No": "50",
+            "Title": "Death Comes for the Archbishop",
+            "Author": "by Willa Cather",
+            "Rating": "3.93 avg rating \u2014 32,285 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436632846i/545951._SY75_.jpg"
+      },
+      {
+            "No": "51",
+            "Title": "The Bridge of San Luis Rey",
+            "Author": "by Thornton Wilder",
+            "Rating": "3.80 avg rating \u2014 31,439 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348937011i/92508._SY75_.jpg"
+      },
+      {
+            "No": "52",
+            "Title": "American Pastoral (The American Trilogy, #1)",
+            "Author": "by Philip Roth",
+            "Rating": "3.93 avg rating \u2014 71,769 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504801263i/11650._SY75_.jpg"
+      },
+      {
+            "No": "53",
+            "Title": "The Power and the Glory",
+            "Author": "by Graham Greene",
+            "Rating": "3.96 avg rating \u2014 36,027 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388210459i/3690._SY75_.jpg"
+      },
+      {
+            "No": "54",
+            "Title": "The Crying of Lot 49",
+            "Author": "by Thomas Pynchon",
+            "Rating": "3.69 avg rating \u2014 78,254 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375727632i/2794._SY75_.jpg"
+      },
+      {
+            "No": "55",
+            "Title": "Portnoy's Complaint",
+            "Author": "by Philip Roth",
+            "Rating": "3.70 avg rating \u2014 63,223 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594130599i/43945._SY75_.jpg"
+      },
+      {
+            "No": "56",
+            "Title": "Wide Sargasso Sea",
+            "Author": "by Jean Rhys",
+            "Rating": "3.60 avg rating \u2014 77,077 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870846i/44597._SY75_.jpg"
+      },
+      {
+            "No": "57",
+            "Title": "Neuromancer (Sprawl, #1)",
+            "Author": "by William Gibson",
+            "Rating": "3.90 avg rating \u2014 288,837 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1167348726i/22328._SY75_.jpg"
+      },
+      {
+            "No": "58",
+            "Title": "The Corrections",
+            "Author": "by Jonathan Franzen",
+            "Rating": "3.81 avg rating \u2014 168,742 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355011305i/3805._SY75_.jpg"
+      },
+      {
+            "No": "59",
+            "Title": "Red Harvest (The Continental Op #1)",
+            "Author": "by Dashiell Hammett",
+            "Rating": "3.96 avg rating \u2014 25,786 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320423692i/30005._SY75_.jpg"
+      },
+      {
+            "No": "60",
+            "Title": "Gravity's Rainbow",
+            "Author": "by Thomas Pynchon",
+            "Rating": "3.98 avg rating \u2014 40,865 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414969925i/415._SY75_.jpg"
+      },
+      {
+            "No": "61",
+            "Title": "Under the Volcano",
+            "Author": "by Malcolm Lowry",
+            "Rating": "3.78 avg rating \u2014 23,053 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390014193i/31072._SY75_.jpg"
+      },
+      {
+            "No": "62",
+            "Title": "The Painted Bird",
+            "Author": "by Jerzy Kosi\u0144ski",
+            "Rating": "3.91 avg rating \u2014 23,729 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348130740i/18452._SY75_.jpg"
+      },
+      {
+            "No": "63",
+            "Title": "Go Tell It on the Mountain",
+            "Author": "by James Baldwin",
+            "Rating": "4.02 avg rating \u2014 58,734 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348424233i/17143._SY75_.jpg"
+      },
+      {
+            "No": "64",
+            "Title": "A House for Mr Biswas",
+            "Author": "by V.S. Naipaul",
+            "Rating": "3.81 avg rating \u2014 19,536 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564755127i/5849._SY75_.jpg"
+      },
+      {
+            "No": "65",
+            "Title": "Play It As It Lays",
+            "Author": "by Joan Didion",
+            "Rating": "3.90 avg rating \u2014 39,609 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611916261i/428._SX50_.jpg"
+      },
+      {
+            "No": "66",
+            "Title": "Lucky Jim",
+            "Author": "by Kingsley Amis",
+            "Rating": "3.76 avg rating \u2014 27,669 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373459729i/395182._SY75_.jpg"
+      },
+      {
+            "No": "67",
+            "Title": "Ubik",
+            "Author": "by Philip K. Dick",
+            "Rating": "4.09 avg rating \u2014 94,815 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327995569i/22590._SY75_.jpg"
+      },
+      {
+            "No": "68",
+            "Title": "Rabbit, Run",
+            "Author": "by John Updike",
+            "Rating": "3.58 avg rating \u2014 56,870 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578676i/85386._SX50_.jpg"
+      },
+      {
+            "No": "69",
+            "Title": "White Teeth",
+            "Author": "by Zadie Smith",
+            "Rating": "3.79 avg rating \u2014 140,117 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374739885i/3711._SY75_.jpg"
+      },
+      {
+            "No": "70",
+            "Title": "The Golden Notebook",
+            "Author": "by Doris Lessing",
+            "Rating": "3.76 avg rating \u2014 20,941 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367457541i/24100._SY75_.jpg"
+      },
+      {
+            "No": "71",
+            "Title": "The Heart of the Matter",
+            "Author": "by Graham Greene",
+            "Rating": "3.97 avg rating \u2014 27,105 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385263150i/3692._SY75_.jpg"
+      },
+      {
+            "No": "72",
+            "Title": "Pale Fire",
+            "Author": "by Vladimir Nabokov",
+            "Rating": "4.14 avg rating \u2014 45,347 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388155863i/7805._SY75_.jpg"
+      },
+      {
+            "No": "73",
+            "Title": "The Moviegoer",
+            "Author": "by Walker Percy",
+            "Rating": "3.66 avg rating \u2014 26,410 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437668043i/10739._SY75_.jpg"
+      },
+      {
+            "No": "74",
+            "Title": "The Confessions of Nat Turner",
+            "Author": "by William Styron",
+            "Rating": "3.96 avg rating \u2014 14,353 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406138384i/577283._SY75_.jpg"
+      },
+      {
+            "No": "75",
+            "Title": "Tropic of Cancer (Tropic, #1)",
+            "Author": "by Henry Miller",
+            "Rating": "3.68 avg rating \u2014 67,113 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408753140i/249._SY75_.jpg"
+      },
+      {
+            "No": "76",
+            "Title": "Appointment in Samarra",
+            "Author": "by John O'Hara",
+            "Rating": "3.82 avg rating \u2014 14,479 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320446769i/126583._SY75_.jpg"
+      },
+      {
+            "No": "77",
+            "Title": "Money",
+            "Author": "by Martin Amis",
+            "Rating": "3.69 avg rating \u2014 21,818 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367084993i/18825._SY75_.jpg"
+      },
+      {
+            "No": "78",
+            "Title": "Deliverance",
+            "Author": "by James Dickey",
+            "Rating": "3.89 avg rating \u2014 30,903 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624579180i/592657._SY75_.jpg"
+      },
+      {
+            "No": "79",
+            "Title": "The Day of the Locust",
+            "Author": "by Nathanael West",
+            "Rating": "3.74 avg rating \u2014 20,868 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387706380i/113441._SY75_.jpg"
+      },
+      {
+            "No": "80",
+            "Title": "Housekeeping",
+            "Author": "by Marilynne Robinson",
+            "Rating": "3.80 avg rating \u2014 48,170 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327882949i/11741._SY75_.jpg"
+      },
+      {
+            "No": "81",
+            "Title": "The Man Who Loved Children",
+            "Author": "by Christina Stead",
+            "Rating": "3.57 avg rating \u2014 4,153 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311987244i/304344._SX50_.jpg"
+      },
+      {
+            "No": "82",
+            "Title": "The Sot-Weed Factor",
+            "Author": "by John Barth",
+            "Rating": "4.10 avg rating \u2014 7,004 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349029340i/24835._SY75_.jpg"
+      },
+      {
+            "No": "83",
+            "Title": "The Adventures of Augie March",
+            "Author": "by Saul Bellow",
+            "Rating": "3.84 avg rating \u2014 17,143 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388270246i/11908._SY75_.jpg"
+      },
+      {
+            "No": "83",
+            "Title": "Herzog",
+            "Author": "by Saul Bellow",
+            "Rating": "3.77 avg rating \u2014 19,999 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924221i/6551._SY75_.jpg"
+      },
+      {
+            "No": "85",
+            "Title": "At Swim-Two-Birds",
+            "Author": "by Flann O'Brien",
+            "Rating": "3.87 avg rating \u2014 12,238 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584237539i/97333._SY75_.jpg"
+      },
+      {
+            "No": "86",
+            "Title": "Call It Sleep",
+            "Author": "by Henry Roth",
+            "Rating": "3.82 avg rating \u2014 8,121 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388873875i/366524._SY75_.jpg"
+      },
+      {
+            "No": "87",
+            "Title": "The Sheltering Sky",
+            "Author": "by Paul Bowles",
+            "Rating": "3.90 avg rating \u2014 26,013 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347986956i/243598._SY75_.jpg"
+      },
+      {
+            "No": "88",
+            "Title": "A Handful of Dust",
+            "Author": "by Evelyn Waugh",
+            "Rating": "3.91 avg rating \u2014 24,290 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266314i/531262._SY75_.jpg"
+      },
+      {
+            "No": "89",
+            "Title": "The Sportswriter",
+            "Author": "by Richard Ford",
+            "Rating": "3.70 avg rating \u2014 17,730 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936345i/40722._SY75_.jpg"
+      },
+      {
+            "No": "90",
+            "Title": "The Berlin Stories",
+            "Author": "by Christopher Isherwood",
+            "Rating": "4.04 avg rating \u2014 11,184 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388792046i/16810._SY75_.jpg"
+      },
+      {
+            "No": "91",
+            "Title": "A Death in the Family",
+            "Author": "by James Agee",
+            "Rating": "3.90 avg rating \u2014 14,974 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327885315i/113091._SY75_.jpg"
+      },
+      {
+            "No": "92",
+            "Title": "The Recognitions",
+            "Author": "by William Gaddis",
+            "Rating": "4.20 avg rating \u2014 5,051 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309209622i/395058._SY75_.jpg"
+      },
+      {
+            "No": "93",
+            "Title": "Dog Soldiers",
+            "Author": "by Robert Stone",
+            "Rating": "3.70 avg rating \u2014 6,542 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306365286i/380364._SY75_.jpg"
+      },
+      {
+            "No": "94",
+            "Title": "The Assistant",
+            "Author": "by Bernard Malamud",
+            "Rating": "3.90 avg rating \u2014 9,995 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411778913i/3068._SY75_.jpg"
+      },
+      {
+            "No": "95",
+            "Title": "Loving",
+            "Author": "by Henry Green",
+            "Rating": "3.55 avg rating \u2014 3,482 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358882664i/771507._SY75_.jpg"
+      },
+      {
+            "No": "96",
+            "Title": "Under the Net",
+            "Author": "by Iris Murdoch",
+            "Rating": "3.77 avg rating \u2014 13,586 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388423609i/11324._SY75_.jpg"
+      },
+      {
+            "No": "97",
+            "Title": "A Dance to the Music of Time: 1st Movement (A Dance to the Music of Time #1-3)",
+            "Author": "by Anthony Powell",
+            "Rating": "3.95 avg rating \u2014 4,423 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645735825i/16113._SY75_.jpg"
+      },
+      {
+            "No": "98",
+            "Title": "An American Tragedy",
+            "Author": "by Theodore Dreiser",
+            "Rating": "3.95 avg rating \u2014 34,778 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309283443i/331319._SY75_.jpg"
+      },
+      {
+            "No": "99",
+            "Title": "Falconer",
+            "Author": "by John Cheever",
+            "Rating": "3.65 avg rating \u2014 7,932 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339091605i/722367._SY75_.jpg"
+      },
+      {
+            "No": "100",
+            "Title": "The Death of the Heart",
+            "Author": "by Elizabeth Bowen",
+            "Rating": "3.67 avg rating \u2014 7,302 ratings",
+            "waktu_scraping": "2022-03-18 14:01:20\n",
+            "Image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497190244i/91494._SY75_.jpg"
+      }
+]
